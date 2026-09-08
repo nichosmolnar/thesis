@@ -64,18 +64,25 @@ const steps = [
       <div class="story-copy story-copy--top">
         <CopyBlock title="Bluefin Tuna was on the brink of extinction.">
           <p>
-            The article is in progress, I swear it. I'm not happy with putting it here until it's ready so unfortunately
-            you're going to have to deal with the Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
+            You might associate Bluefin tuna with the panda, the tigers, the blue whale — charismatic megafauna at serious risk of extinction, with diminishingly small populations and few remaining wild members. And for a few years, this was an apt association: bluefin tuna were pushed to the brink by human fishing pressure as populations teetered on the brink. 
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            How then, in 2023, can a single fish market consume nearly 2000 tonnes of top-grade bluefin tuna, if this population is on the edge of collapsing?
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            The story of Bluefin tuna is a story stuck in a specific place — that is, 2007. Bluefin tuna’s image as the endangered megafauna, the poster-child for overfishing practices, does not do this fish justice. There was a time and place where the most heavily fished bluefin populations were not recovering year after year, and without the proper course correction the oceans may very well have run out of the fish. However, this image does not adequately represent the current state of tuna. 
+          </p>
+          <p>
+            Without the proper context, it can be hard to understand the scale of a 2000 tonnes, or 8,060 individual tuna, or even the 156 tuna consumed each week at the Tokyo Fish Market. These are a drop in the ocean of tuna consumption. The bluefin tuna trade is not the largest fish market in the world by volume (it’s not even the largest tuna market in the world by volume), yet it is one of the most lucrative.
+          </p>
+          <p>
+            This is driven almost primarily by demand for sushi. The modern sushi trade is supported by a massive and highly global network of fishermen and distributors. No fish best represents the modern sushi industry as tuna. It is the most popular, most expensive, and most consistent ingredient for the cuisine. Most if not all high-grade tuna caught in the world is used for sushi. 
+          </p>
+          <p>
+            The sushi industry has turned tuna into a junk fish caught with little commercial value into one of the most expensive cuts of meat in the world. Tuna is so valuable and the margins are so high that a fish caught off the coast of Massachusetts can be flown to Tokyo, priced, and sold to a sushi restaurant in Boston. In its early history, sushi was shaped by what fish was seasonally available and local enough that it could be made without spoilage. Sushi in the modern day warps global fishing fleets to its wants and needs.
+          </p>
+          <p>
+            How did we get here?
           </p>
         </CopyBlock>
       </div>

@@ -37,17 +37,18 @@ const steps = [
   <StorySection id="map" height="overscroll" width="full">
     <SectionGrid v-if="!minimalMode" class="map-lead-grid" :columns="12" gap="1.25rem" align="start">
       <div class="story-copy story-copy--top">
-        <CopyBlock title="Lorem ipsum dolor sit amet">
+        <CopyBlock title="Why?">
           <p>
-            And some more lorem impsum:
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus
-            posuere velit aliquet. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor.
+            The sushi industry did not slow down even as bluefin tuna catches dwindled. In the years of diminished wild catches, there is no evidence there was a noticeable effect on the supply to the sushi industry. Bluefin tuna, it seems, was still being sold in sushi restaurants around the world.
           </p>
           <p>
-            Transition section tranistion section
-            Bluefin tuna is not caught in equal areas across the world, there are hotspots
-            These hotspots have unique climate challenges
-            These hotspots are also important for Farming tuna (really, ranching tuna)
+            How is this possible?
+          </p>
+          <p>
+            If you slice the data another way, adding a geographical element not represented by a bar chart, hidden patterns reveal themselves.
+          </p>
+          <p>
+            The world’s oceans are not created equal, at least in the eyes of the bluefin tuna. The three major subspecies of bluefin — the Southern, Atlantics, and Pacific bluefin — live distinct, separated regions of the ocean. All three favor temperate oceans: the Southern population prefers the waters near Australia and New Zealand, the Atlantic population reaches from the Mediterranean to the Eastern United States, and the mighty Pacific population spans from Japanese waters all the way to Baja California, Mexico.
           </p>
         </CopyBlock>
       </div>

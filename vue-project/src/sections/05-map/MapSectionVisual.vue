@@ -146,11 +146,11 @@ const props = defineProps({
   minimalMode: { type: Boolean, default: false },
 })
 
-const MEDITERRANEAN_ZOOM_FILLER = ''
+const MEDITERRANEAN_ZOOM_FILLER = 'An area of particular interest is the Mediterranean.'
 const MEDITERRANEAN_FARMS_FILLER =
-  'The Mediterranean and the countries around it are leading the way in Bluefin farming. Each dot is a registered bluefin farm: together, they have the capacity to produce 80,000 tonnes of Bluefin in a year.'
-const LINGER_2023_FILLER = ''
-const DEFAULT_FILLER = ''
+  'The Mediterranean and the countries around it are leading the way in bluefin farming. Each dot is a registered bluefin farm: together, they have the capacity to produce 80,000 tonnes of Bluefin in a year.'
+const LINGER_2023_FILLER = 'In 2023, bluefin are caught primarily in the North Atlantic, the Southern Atlantic, Indian, and Pacific Oceans, and Mediterranean.'
+const DEFAULT_FILLER = 'Over 58 years of bluefin fishing, the area we catch bluefin has shifted polewards.'
 
 const mapRef = ref(null)
 const miniChartRef = ref(null)

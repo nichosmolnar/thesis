@@ -17,18 +17,21 @@ defineProps({
     <div class="country-production-shell">
       <SectionGrid class="country-production-grid" :columns="12" gap="1.25rem" align="start">
         <div v-if="!minimalMode" class="story-copy story-copy--top">
-          <CopyBlock title="">
+          <CopyBlock title="To Ranch a Tuna">
             <p>
-              
-              
+              The sushi industry avoided disruption by the advent of bluefin tuna farming. By 2010 — at the start of the catch limitations — 31.6% of bluefin tuna produced worldwide was farmed. As of 2023, 50% of the global bluefin catch is produced in farms. Aquaculture—fish farming, or in the case of bluefin “fish ranching” — smoothed over gaps in supply.
             </p>
             <p>
-              The gist of all this is that Bluefin tuna is farmed more than it is caught in the wild.
-              All those green dots on the map up above are farms 
+              Each of these three species of tuna has a now-robust ranching industry. Ranching the Atlantic bluefin tuna is concentrated off the coast of the United States, Europe, and the Mediterranean Sea. Southern bluefin tuna farming is concentrated in Australia, while Pacific bluefin tuna farming is concentrated in Japan and in Baja California, Mexico.
             </p>
             <p>
-              The streamgraph tracks annual bluefin tuna imports by country. Stream thickness shows
-              each country's volume contribution over time.
+              Most farmed tuna are produced via tuna ranching or penning, where young fish are captured in the wild and raised to captivity in near-shore and open ocean pens.This practice allows for finer control of each year’s harvest. Yet tuna penning has issues and inefficiencies, with a long road ahead to become a truly sustainable practice. Tuna are often caught vast distances away from their long-term penning locations. Fishermen can lose up to 40% of their catch in transit. Bluefin tuna penning still contributes to the overfishing of tuna populations and introduces new fishing pressures onto other fish stocks, which are caught as feed for penned tuna.
+            </p>
+            <p>
+              Tuna has relatively high feed conversion ratios: more animal protein (usually fish from low-value fisheries, such as herring, sardines, or mackerel) is needed to fatten tuna than the tuna eventually ends up producing. It takes 3 kg of wild fish to produce 1 kg of farmed salmon (i.e., a 3:1 ratio). For farmed cod the ratio is 5:1; For ranched tuna, the ratio reaches 20:1.
+            </p>
+            <p>
+              Despite these challenges, tuna ranching is the likely future of the bluefin tuna industry.
             </p>
           </CopyBlock>
         </div>

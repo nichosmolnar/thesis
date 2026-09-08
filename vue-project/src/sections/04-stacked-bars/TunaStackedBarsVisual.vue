@@ -883,7 +883,7 @@ onUnmounted(() => {
 <template>
   <div ref="wrapRef" class="stacked-wrap">
     <h1 class="visual-title chart-main-title">
-      58 Years of Bluefin Catch Data
+      58 Years of the Bluefin Catch
     </h1>
     <div class="stacked-chart-body">
       <div v-if="SHOW_ANNOTATION_TEXT_INPUT" class="annotation-text-inputs" aria-label="Annotation labels">
